@@ -1,0 +1,42 @@
+{
+  "name": "rao_port_client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "awesomplete": "^1.1.5",
+    "jquery": "^3.4.1",
+    "loadjs": "^3.6.1",
+    "lodash": "^4.17.15",
+    "react": "^16.9.0",
+    "react-autocomplete": "^1.8.1",
+    "react-dnd": "5.0.0",
+    "react-dnd-html5-backend": "^3.0.2",
+    "react-dom": "^16.9.0",
+    "react-dropdown-autocomplete": "^1.2.7",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "react-tag-input": "^6.4.1",
+    "reactjs-tag-input": "^2.0.13"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
