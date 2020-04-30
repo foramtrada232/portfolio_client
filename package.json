@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "awesomplete": "^1.1.5",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "loadjs": "^3.6.1",
     "lodash": "^4.17.15",
     "react": "^16.9.0",
