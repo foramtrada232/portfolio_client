@@ -6,7 +6,7 @@
     "awesomplete": "^1.1.5",
     "jquery": "^3.4.1",
     "loadjs": "^3.6.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "react": "^16.9.0",
     "react-autocomplete": "^1.8.1",
     "react-dnd": "5.0.0",
